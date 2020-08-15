@@ -1,1 +1,1 @@
-# Chat-bot
+# A simple rule based chat bot
